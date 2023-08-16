@@ -20,7 +20,7 @@
 <div class="container">
     <div id="navbar" class="row">
     	<div class="col-sm-12">
-        	<nav class="navbar navbar-default">
+        	<nav class="navbar navbar-default" >
   				<div class="container-fluid">
                 	<ul class="nav navbar-nav">
                         <li><a href="#">Home</a></li>
